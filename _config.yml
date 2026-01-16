@@ -28,10 +28,10 @@ url: "https://ko.trendlog2day.com"
 github:
   username: trendlog2day # change to your GitHub username
 
-# social:
-#   name: 오늘의 트렌드 로그
-#   links:
-#     - https://github.com/trendlog2day
+social:
+  name: 오늘의 트렌드 로그
+  links:
+    - https://github.com/trendlog2day
 
 # twitter:
 # username: twitter_username # change to your Twitter username
@@ -65,7 +65,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: G-KV97CW914R # fill in your Google Analytics ID
+    id: G-2TQ9YY0EX3 # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -94,7 +94,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: light # [light | dark]
+theme_mode: # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
