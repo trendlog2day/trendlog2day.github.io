@@ -1,3 +1,4 @@
+#DaumWebMasterTool:1063bc6a19eb9024ddf799d4e0f869340061e07bd0a72521a34b58236985ad69:AN2nXEAq4t69WOdi+hPOAw==
 ---
 permalink: /robots.txt
 # The robots rules
